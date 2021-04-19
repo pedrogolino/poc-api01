@@ -1,0 +1,6 @@
+/.vscode
+/.devcontainer
+/coverage
+
+dist/
+node_modules/
